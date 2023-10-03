@@ -1,0 +1,12 @@
+D:\Mexico\EC\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Mexico\EC\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mexico\EC\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Mexico\EC\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Mexico\EC\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Mexico\EC\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Mexico\EC\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Mexico\EC\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Mexico\EC\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Mexico\EC\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Mexico\EC\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Mexico\EC\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

@@ -1,0 +1,15 @@
+D:\Mexico\EC\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\Mexico\EC\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mexico\EC\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\Mexico\EC\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\Mexico\EC\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\Mexico\EC\Business\bin\Debug\net6.0\Business.deps.json
+D:\Mexico\EC\Business\bin\Debug\net6.0\Business.dll
+D:\Mexico\EC\Business\bin\Debug\net6.0\Business.pdb
+D:\Mexico\EC\Business\bin\Debug\net6.0\DataAccess.dll
+D:\Mexico\EC\Business\bin\Debug\net6.0\DataAccess.pdb
+D:\Mexico\EC\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+D:\Mexico\EC\Business\obj\Debug\net6.0\Business.dll
+D:\Mexico\EC\Business\obj\Debug\net6.0\refint\Business.dll
+D:\Mexico\EC\Business\obj\Debug\net6.0\Business.pdb
+D:\Mexico\EC\Business\obj\Debug\net6.0\ref\Business.dll
